@@ -239,3 +239,4 @@ typing-extensions==3.7.4.3 \
     #   -c requirements.txt
     #   black
     #   mypy
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
